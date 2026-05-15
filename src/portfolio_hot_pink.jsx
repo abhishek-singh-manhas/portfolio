@@ -660,7 +660,7 @@ const About = () => {
                 textTransform: 'uppercase',
                 color: C.muted,
               }}>
-                Est. 2022
+                
               </span>
             </div>
           </motion.div>
